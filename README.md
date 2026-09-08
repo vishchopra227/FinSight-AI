@@ -7,6 +7,7 @@ FinSight AI estimates the potential risk of a loan application using borrower in
 > ⚠️ This project is an educational machine learning demonstration and does not make real banking, lending, approval, or rejection decisions.
 
 ---
+Live Demo: https://finsight-ai-29knf9xdgrwxzdalbxlnky.streamlit.app/
 
 ## 🚀 Features
 
