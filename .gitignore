@@ -3,5 +3,3 @@ __pycache__/
 .venv/
 venv/
 .env
-loan_model.pkl
-model_metadata.pkl
