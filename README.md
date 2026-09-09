@@ -65,7 +65,6 @@ FinSight-AI/
 ```
 
 ---
-
 ## 📊 Dataset
 
 The project uses a historical lending dataset containing borrower, credit, income, and loan-related information.
