@@ -5,7 +5,6 @@ An AI-powered **Loan Risk Classification Assistant** built using **Python, Sciki
 FinSight AI estimates the potential risk of a loan application using borrower income, credit history, debt-to-income ratio, and loan-related features from historical lending data.
 
 > ⚠️ This project is an educational machine learning demonstration and does not make real banking, lending, approval, or rejection decisions.
-
 ---
 Live Demo: https://finsight-ai-29knf9xdgrwxzdalbxlnky.streamlit.app/
 
