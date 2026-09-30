@@ -8,7 +8,7 @@ FinSight AI estimates the potential risk of a loan application using borrower in
 ---
 Live Demo: https://finsight-ai-29knf9xdgrwxzdalbxlnky.streamlit.app/
 
-## 🚀 Features 
+## 🚀 Features  
    
 - 📊 Loan risk classification using machine learning
 - 💰 Applicant income and loan details analysis
