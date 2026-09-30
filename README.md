@@ -49,23 +49,6 @@ The application allows users to enter applicant and loan details and receive:
 
 ---
 
-## 📂 Project Structure
-
-```text
-FinSight-AI/
-│
-├── app.py                    # Streamlit web application
-├── train_model.py            # Model training and preprocessing
-├── requirements.txt          # Python dependencies
-├── loans_full_schema.csv     # Historical lending dataset
-├── loan_model.pkl            # Saved trained ML pipeline
-├── model_metadata.pkl        # Saved feature metadata
-├── .gitignore                # Ignored files and folders
-└── README.md                 # Project documentation
-```
-
----
-
 ## 📊 Dataset
 
 The project uses a historical lending dataset containing borrower, credit, income, and loan-related information.
