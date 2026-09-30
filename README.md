@@ -10,7 +10,7 @@ Live Demo: https://finsight-ai-29knf9xdgrwxzdalbxlnky.streamlit.app/
 
 ## 🚀 Features  
    
-- 📊 Loan risk classification using machine learning
+- 📊 Loan risk classification using machine learning 
 - 💰 Applicant income and loan details analysis
 - 📈 Debt-to-income ratio evaluation 
 - 🏦 Credit history-based risk assessment
