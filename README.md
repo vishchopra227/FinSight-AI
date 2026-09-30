@@ -316,14 +316,3 @@ paid_late_fees
 These columns contain information that may become available only after the loan has been issued. Including them could lead to data leakage and unrealistic model performance.
 
 ---
-
-## ⚠️ Limitations
-
-- The dataset is relatively small after filtering loan statuses.
-- The number of risky loan records is limited.
-- The model is not trained on real-time banking data.
-- The prediction should not be used for actual loan approval decisions.
-- The model does not replace professional financial or credit-risk assessment.
-- Model performance may change when tested on a larger and more balanced dataset.
-
----
